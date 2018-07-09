@@ -1,6 +1,9 @@
 # MacOSX
 .DS_Store
 
+# Idea
+.idea
+
 # Logs
 logs
 *.log
